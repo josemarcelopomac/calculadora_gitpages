@@ -4,6 +4,6 @@ import react from '@vitejs/plugin-react'
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: 'calculadora_gitpages',
+  base: '/Calculadora_v2/calculadora_v2',
 
 })
